@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm İsmail</h1>
-<h3 align="center">4th Grade Computer Science Engineering Student at Marmara University</h3>
+<h3 align="center">Hi 👋 I'm İsmail</h1>
+<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailoksuz&label=Profile%20views&color=0e75b6&style=flat" alt="ismailoksuz" /> </p>
+<p align="left"> <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ismailoksuz&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="ismailoksuz"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailoksuz" alt="ismailoksuz" /></a> </p>
 
